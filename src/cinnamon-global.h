@@ -82,9 +82,6 @@ void    cinnamon_global_get_pointer             (CinnamonGlobal         *global,
                                               int                 *x,
                                               int                 *y,
                                               ClutterModifierType *mods);
-void    cinnamon_global_set_pointer             (CinnamonGlobal         *global,
-                                              int                 x,
-                                              int                 y);
 
 
 /* JavaScript utilities */
